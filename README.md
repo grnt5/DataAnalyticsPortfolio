@@ -1,2 +1,2 @@
-# data_analytics_portfolio
-Portfolio of data analysis/data science projects I've done for academics and personal work
+# Data Analytics Portfolio
+Portfolio of data analysis and data science projects I've done for academics and personal work
