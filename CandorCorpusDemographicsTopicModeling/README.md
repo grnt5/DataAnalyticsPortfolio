@@ -1,4 +1,4 @@
-# Candor Corpus Demographics Topic Modeling
+# CANDOR Corpus Demographics Topic Modeling
 
 **Project Background**
 
